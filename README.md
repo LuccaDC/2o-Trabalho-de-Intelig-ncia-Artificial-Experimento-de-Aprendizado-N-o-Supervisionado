@@ -1,2 +1,2 @@
-# 2o-Trabalho-de-Intelig-ncia-Artificial-Experimento-de-Aprendizado-N-o-Supervisionado
+# 2o Trabalho de Inteligência Artificial:Experimento de Aprendizado Não Supervisionado
 Utilização da Biblioteca Minisom para análise de um dataset sobre startups
